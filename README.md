@@ -2,6 +2,8 @@
 
 React app to showcase curd operation using rest apis
 
+App is under development
+
 For the project to build, **these files must exist with exact filenames**:
 
 * `public/index.html` is the page template;
